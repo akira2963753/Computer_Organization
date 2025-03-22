@@ -1,0 +1,45 @@
+# Current time Sat Mar  8 00:25:57 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 51539e6f. Traceback:
+# 0    0x51539e6f: 'Tcl_GetString + 0xf'
+# 1    0x51521f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x51493a49: 'TclNRRunCallbacks + 0x49'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Sat Mar  8 16:11:24 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 516b9e6f. Traceback:
+# 0    0x516b9e6f: 'Tcl_GetString + 0xf'
+# 1    0x516a1f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x51613a49: 'TclNRRunCallbacks + 0x49'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Mar 10 21:36:50 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 536a9e6f. Traceback:
+# 0    0x536a9e6f: 'Tcl_GetString + 0xf'
+# 1    0x53691f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x53603a49: 'TclNRRunCallbacks + 0x49'
+StackWalk failed 299
+# End of Stack Trace
+

@@ -1,0 +1,42 @@
+$date
+	Thu Mar 06 13:11:02 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module ALU_tb $end
+$var reg 6 ! Funct [5:0] $end
+$var reg 5 " Shamt [4:0] $end
+$var reg 32 # Src_1 [31:0] $end
+$var reg 32 $ Src_2 [31:0] $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 $
+b0 #
+b0 "
+b100100 !
+$end
+#10
+b100011 !
+b101000 $
+b1111 #
+#20
+b100100 !
+b101 $
+b11111111111111111111111111111111 #
+#30
+b0 !
+b100 "
+b1000 #
+#40
+b10 !
+b10000000 #
+#50

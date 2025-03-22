@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.1
+vALU
+Z0 !s110 1741613831
+!i10b 1
+!s100 n:jiCzY[2b@eR;Lh=zSbB3
+IjI=XDf?@FKOPaGJ?H0IgM2
+Z1 dD:/Project/Computer_Organization/HW1
+w1741612992
+8D:/Project/Computer_Organization/HW1/ALU.v
+FD:/Project/Computer_Organization/HW1/ALU.v
+!i122 64
+L0 7 24
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1741613831.000000
+!s107 D:/Project/Computer_Organization/HW1/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/Computer_Organization/HW1/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vCompALU
+R0
+!i10b 1
+!s100 3OCVjHeRS]a8Kza:`dOWX1
+IHo5?OHK44_5QOjZaHPaMn0
+R1
+w1741368363
+8D:/Project/Computer_Organization/HW1/CompALU.v
+FD:/Project/Computer_Organization/HW1/CompALU.v
+!i122 66
+L0 29 17
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/Computer_Organization/HW1/CompALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/Computer_Organization/HW1/CompALU.v|
+!i113 1
+R5
+R6
+n@comp@a@l@u
+vRF
+R0
+!i10b 1
+!s100 ;cicZ;=?5MDRSS:1Ji[BV0
+IjzlGla9NBRXaXYU6n@^Az2
+R1
+w1741365217
+8D:/Project/Computer_Organization/HW1/RF.v
+FD:/Project/Computer_Organization/HW1/RF.v
+!i122 61
+L0 29 14
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/Computer_Organization/HW1/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/Computer_Organization/HW1/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vtb_ALU
+R0
+!i10b 1
+!s100 V7aAzE=dR3CKdjiI<fPK<1
+IOf:IbjP9mhhk?^^U9d]Sh2
+R1
+w1741106214
+8D:/Project/Computer_Organization/HW1/tb_ALU.v
+FD:/Project/Computer_Organization/HW1/tb_ALU.v
+!i122 63
+L0 40 78
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/Computer_Organization/HW1/tb_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/Computer_Organization/HW1/tb_ALU.v|
+!i113 1
+R5
+R6
+ntb_@a@l@u
+vtb_CompALU
+R0
+!i10b 1
+!s100 ><`DgU657M;?VojWO]SFA2
+Ig_kYdAW0DL0[FlW=iU5cK2
+R1
+w1741107085
+8D:/Project/Computer_Organization/HW1/tb_CompALU.v
+FD:/Project/Computer_Organization/HW1/tb_CompALU.v
+!i122 65
+L0 43 77
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/Computer_Organization/HW1/tb_CompALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/Computer_Organization/HW1/tb_CompALU.v|
+!i113 1
+R5
+R6
+ntb_@comp@a@l@u
+vtb_RF
+R0
+!i10b 1
+!s100 Z2j>:hc3MN?Ozm@K`?n5V3
+If_c9KBKkM_4@P>Kb2Q49e0
+R1
+w1741106365
+8D:/Project/Computer_Organization/HW1/tb_RF.v
+FD:/Project/Computer_Organization/HW1/tb_RF.v
+!i122 62
+L0 42 74
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/Computer_Organization/HW1/tb_RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/Computer_Organization/HW1/tb_RF.v|
+!i113 1
+R5
+R6
+ntb_@r@f
