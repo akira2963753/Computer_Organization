@@ -8,3 +8,5 @@ ModelSim-Intel FPGA Standard Edition, Version 20.1.1, windows
 
 #### Synthesis Tool     
 The OpenROAD-flow-scripts from github
+
+### Area / Slack Ranking : 
