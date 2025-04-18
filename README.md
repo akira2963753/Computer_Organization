@@ -10,3 +10,7 @@ ModelSim-Intel FPGA Standard Edition, Version 20.1.1, windows
 The OpenROAD-flow-scripts from github
 
 ### Area / Slack Ranking : 
+| Project | Part | Area(um^2) | Critical Path Slack | Ranking  |
+|:----:|:------:|:-----:|:-----:|:-----:|
+|  PA1   |  1 | 1223.334 | 4.5237  | 1% |
+|  PA1   |  2 | 1223.068 | 4.4499  | 1% |
