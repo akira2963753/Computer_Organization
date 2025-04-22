@@ -9,7 +9,8 @@ ModelSim-Intel FPGA Standard Edition, Version 20.1.1, windows
 #### Synthesis Tool     
 The OpenROAD-flow-scripts from github
 
-### Area and Slack Ranking : 
+
+### Area and Critical Path Slack Ranking : 
 | Project | Part | Area | Critical Path Slack | Ranking  |
 |:----:|:------:|:-----:|:-----:|:-----:|
 |  PA1   |  CompMultiplier | 1223.334 | 4.5237  | 1% |
