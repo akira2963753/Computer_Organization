@@ -1,12 +1,13 @@
 NTUST-EE 2025 Computer Organization Course
 -
+#### Notice : 
 ###### This is the NTUST-EE 2025 Computer Organization Course content. The code on the GitHub repository is for reference only. 
 ###### Do not plagiarize plz , the professor will check for violations !!
 
 #### Development Environment :  
 
-##### RTL Simulator : ModelSim-Intel FPGA Standard Edition, Version 20.1.1, windows  
-##### Synthesis Tool : The OpenROAD-flow-scripts from github
+##### RTL Simulator : *ModelSim-Intel FPGA Standard Edition, Version 20.1.1, windows*  
+##### Synthesis Tool : *The OpenROAD-flow-scripts from github*
 
 
 #### Area and Critical Path Slack Ranking : 
