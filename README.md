@@ -11,7 +11,7 @@ NTUST-EE 2025 Computer Organization
 ##### Synthesis Tool : *The OpenROAD-flow-scripts from github*
 
 #   
-#### Area and Critical Path Slack Ranking : 
+#### Area , Critical Path Slack Ranking and Final Score : 
 | Project | Part | Area | Critical Path Slack | Ranking  | Score    |
 |:----:|:------:|:-----:|:-----:|:-----:|:-----:|
 |  [PA1](./PA1)   |  CompMultiplier | 1223.334 | 4.5237  | 1% | 100  |
