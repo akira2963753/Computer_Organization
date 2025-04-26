@@ -1,6 +1,7 @@
 NTUST-EE 2025 Computer Organization Course
 -
-###### This is the *NTUST-EE 2025 Computer Organization Course* contents. The code on the GitHub repository is for reference only. 
+###### This is the *NTUST-EE 2025 Computer Organization Course* contents. 
+###### The code on the GitHub repository is for reference only. 
 ###### Do not plagiarize plz , the professor will check for violations !!
 
 #### Development Environment :  
