@@ -19,3 +19,8 @@ NTUST-EE 2025 Computer Organization
 |  [PA1](./PA1)  |  CompDivider | 1223.068 | 4.4499  | 1% | 100 |
 |  [PA2](./PA2)  |  SimpleCPU (MemSize=128) | 33743.972 | 4.4097  | 1% | 100 |
 |  [PA2](./PA2)  |  SimpleCPU (MemSize=12) | 14098.532 | 4.4039  | 1% | 100 |
+
+#
+#### Single cycle processor R-format, I-format, Branch and Jump instructions  
+<img width="703" alt="{06AAC330-FFD2-421E-BA67-0FAF65D96546}" src="https://github.com/user-attachments/assets/ff82dbc1-93f1-4ed3-925c-6c8e10a6df76" />
+
