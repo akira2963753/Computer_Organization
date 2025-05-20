@@ -1,6 +1,6 @@
 This is a MIPS Encoder and Corrector  
 -
-### ! Notice : Sign-Extension Maybe have error.
+#### Notice : Sign-Extension Maybe have error.   
 #### Format of .asm file : 
 ```
 addiu $R01, $R0, 1         
