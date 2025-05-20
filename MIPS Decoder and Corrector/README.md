@@ -6,8 +6,7 @@ This is a MIPS Encoder and Corrector
 ![image](https://github.com/user-attachments/assets/c83902fc-4596-4bdd-a384-f14d2f6570a9)  
 
 #### Step 2 : 
-##### cd to the folder and execute the command  
-##### and then your MIPS code will be encoder to Instruction Memory(IM.dat)  
+##### CD to the folder and execute the command and then your MIPS code will be encoder to Instruction Memory(IM.dat)  
 ``` 
 python mips_assembler.py Part3.asm IM.dat  
 ```  
@@ -17,7 +16,7 @@ python mips_assembler.py Part3.asm IM.dat
 ##### Go to ModelSim and Simulate your RTL Code  
 
 #### Step 4 : 
-##### execute the command can help to check your answer  
+##### Execute the command can help to check your answer  
 ##### If Correct  
 ![image](https://github.com/user-attachments/assets/1a05b0eb-aca2-41d5-b3a7-4f4f70ebb3f0)
 ##### If Noncorrect  
