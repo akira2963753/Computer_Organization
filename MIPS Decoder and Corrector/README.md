@@ -7,7 +7,7 @@ This is a MIPS Encoder and Corrector
 
 #### Step 2 : 
 ##### CD to the folder and execute the command and then your MIPS code will be encoder to Instruction Memory(IM.dat)  
-```python
+```script
 python mips_assembler.py Part3.asm IM.dat  
 ```  
 ![image](https://github.com/user-attachments/assets/aa113fa0-51aa-43c7-b2af-ef5a481eb53a)  
@@ -17,7 +17,7 @@ python mips_assembler.py Part3.asm IM.dat
 
 #### Step 4 : 
 ##### Execute the command can help to check your answer  
-```python
+```script
 python verify_mips.py Part3.asm RF.dat DM.dat RF.out DM.out
 ```  
 ##### If Correct  
