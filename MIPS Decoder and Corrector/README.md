@@ -1,4 +1,4 @@
-# This is a MIPS Encoder and Corrector  
+This is a MIPS Encoder and Corrector  
 -
 
 #### Step 1 :  
