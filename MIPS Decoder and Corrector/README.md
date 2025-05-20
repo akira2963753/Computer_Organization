@@ -6,7 +6,7 @@ This is a MIPS Encoder and Corrector
 ![image](https://github.com/user-attachments/assets/c83902fc-4596-4bdd-a384-f14d2f6570a9)  
 
 #### Step 2 : 
-##### CD to the folder and execute the command and then your MIPS code will be encoder to Instruction Memory(IM.dat)  
+##### Cd to the folder and execute the command and then your MIPS code will be encoder to Instruction Memory(IM.dat)  
 ```bash
 cd .\testbench\  
 python mips_assembler.py Part3.asm IM.dat  
