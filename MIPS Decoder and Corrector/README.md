@@ -33,7 +33,7 @@ python mips_assembler.py Part3.asm IM.dat
 python verify_mips.py Part3.asm RF.dat DM.dat RF.out DM.out
 ```  
 ##### If Correct  
-![image](https://github.com/user-attachments/assets/1a05b0eb-aca2-41d5-b3a7-4f4f70ebb3f0)
+![image](https://github.com/user-attachments/assets/f9471086-db70-40b7-9bbd-514af151521c)  
 ##### If Noncorrect  
 ![image](https://github.com/user-attachments/assets/d3a6c948-2e1a-44c5-ad4a-4da1cebf7b4e)  
 
