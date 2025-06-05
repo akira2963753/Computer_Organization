@@ -23,5 +23,7 @@ NTUST-EE 2025 Computer Organization
 
 #
 #### Single cycle processor R-format, I-format, Branch and Jump instructions  
-<img width="703" alt="{06AAC330-FFD2-421E-BA67-0FAF65D96546}" src="https://github.com/user-attachments/assets/ff82dbc1-93f1-4ed3-925c-6c8e10a6df76" />
+<img width="703" alt="{06AAC330-FFD2-421E-BA67-0FAF65D96546}" src="https://github.com/user-attachments/assets/ff82dbc1-93f1-4ed3-925c-6c8e10a6df76" />  
 
+#### 5-stage pipelined processor with R-format, I-format and forwarding and hazard detection  
+![image](https://github.com/user-attachments/assets/7304aa38-02b7-4092-8d19-6725a044dd50)
