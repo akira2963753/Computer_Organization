@@ -10,6 +10,7 @@ NTUST-EE 2025 Computer Organization
  
 ##### RTL Simulator : *ModelSim-Intel FPGA Standard Edition, Version 20.1.1, windows*  
 ##### Synthesis Tool : *The OpenROAD-flow-scripts from github*
+##### MIPS Decoder and Corrector : It can help you to transfer .asm to Instruction Memory and verify your answer.  
 
 #   
 #### Area/Critical Path Slack Ranking and Final Score : 
